@@ -6,7 +6,9 @@
 # User-specific files
 x64/
 x86/
-*.vcxproj*
+*.vcxproj
+*.vcxproj.filters
+*.exe
 *.rsuser
 *.suo
 *.user
